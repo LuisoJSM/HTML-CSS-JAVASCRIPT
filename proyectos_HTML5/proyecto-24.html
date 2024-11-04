@@ -1,0 +1,39 @@
+Proyecto 24 :
+<!--
+Crea un formulario con un campo tipo texto,
+- Debe ser obligatorio
+- Minimo se pueden introducit 3 caracteres Máximo 10
+- SOlo podrás meter espacios y letras de A-Z n Minúscula y Mayúscula
+-->
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto 24 HTML</title>
+</head>
+
+<body>
+
+    <h1>Formulario</h1>
+
+    <form>
+
+        <div>
+            <label for="nombre">Nombre</label>
+            <input type="text" id="nombre" required minlength="3" maxlength="10"
+            pattern="[A-Za-z ]+" />
+        </div>
+
+        <input type="submit" value="Enviar"/>
+
+    </form>
+
+
+    
+
+</body>
+
+</html>

@@ -1,0 +1,170 @@
+Proyecto 01:
+<!--
+Enunciado:
+Crear la estructura HTML y añadir un encabezado
+-->
+
+
+Proyecto 02:
+<!--
+Enunciado:
+Crear una cabecera que tenga un encabezado y un párrafo
+-->
+
+
+Proyecto 03:
+<!--
+Crea un ocmentario de código explicando las etiquetas
+-->
+
+
+
+Proyecto 04:
+<!--
+Crea (elemento principal) con (una sección) que contenga un artículo.
+El artículo deberá tener un título, subtítulo y párrafo
+-->
+
+
+Proyecto 05:
+<!--
+Crea una barra lateral que contenga un artículo,
+ese artículo deberá tener un título, fecha y párrafo
+-->
+
+Proyecto 06:
+<!--
+Crea un pie de página que contenga un párrafo,
+con un logo de copyright y un año
+-->
+
+Proyecto 07:
+<!--
+Crea una web que tenga una cabecera, contenido principal, barra lateral y pie de página.
+Dentro debe tener el contenido lógico de ese tipo de elementos de una web
+-->
+
+Proyecto 08:
+<!--
+CREA UNA LISTA ORDENADA DE COMIDA
+-->
+
+
+Proyecto 09:
+<!--
+CREA UNA LISTA DEORDENADA DE VIDEOJUEGOS
+-->
+
+
+
+Proyecto 10:
+<!--
+CREA UNA LISTA ANIDADA CON MARCAS DE COCHES Y LOS MODELOS DE ESAS MARCAS
+-->
+
+
+Proyecto 11:
+<!--
+CREA UNA LISTA DE DEFINICIÓN DE FRUTAS
+-->
+
+
+
+Proyecto 12:
+<!--
+AÑADE UNA IMAGEN A LA WEB CON 800px DE ANCHO, CON TEXTO ALTERNATIVO Y TITULO
+-->
+
+Proyecto 13:
+<!--
+AÑADE UN VDEO QUE SE REPRODUZCA NADA MÁS  CARGAR LA PÁGINA. EL VIDEO DEBERÁ ESTAR SILENCIADO, DEBERÁTENER UNA MINIATURA, 500 px de ancho y 300 de alto
+-->
+
+Proyecto 14:
+<!--
+AÑADE UN AUDIO con sus respectivos controles
+-->
+
+Proyecto 15:
+<!--
+Crea un parrafo que tenga una imagen opcional.
+La imagen deberá tener un texto opcional, 600 px de ancho y 400px de alto.
+-->
+
+
+
+
+Proyecto 16 :
+<!--
+Añade un mapa de googlem un video de youtube y una web embebida
+-->
+
+
+Proyecto 17 :
+<!--
+Crea un enlace a Victorroblesweb.es
+
+Y la ejercicio 1. La web deberá abrirse en una nueva pestaña
+
+-->
+
+
+
+Proyecto 18 :
+<!--
+Crea un menú con 5 enlaces. Los enlces deberán llevar a un proyecto
+
+-->
+
+Proyecto 19 :
+<!--
+Añade un h1 con un id un parrafo con mucho texto y debajo del texto un enlace con un click que lleve al H1-->
+
+Proyecto 20 :
+<!--
+Crea una tabla de personas
+la tabla deberá tener 3 columnas
+Nombre,a pellido, edad.
+
+Deben tener un encabezado en dichas columnas.
+Si una persona no tiene la edad añadida, la edad debe ocupar 2 filas
+-->
+
+Proyecto 21 :
+<!--
+Crea un formlario con un campo texto y un  boton.
+El campo tipo texto deberá tener un placeholder
+-->
+
+Proyecto 22 :
+<!--
+Crea un formulario con un campo tipo Textarea,
+email, contraseña, radio, select, checkbox, fichero,
+fecha, numero, color y submit
+
+Todos los campos deberán estar dentro de un fieldset y usar campo legend
+
+Todos los campos deberán tener un label
+-->
+
+Proyecto 23 :
+<!--
+Crea un formulario con un campo tipo búsqueda,
+teléfono, hora, url, barra de progresp, lista de datos, submit y respectivos
+Todos los campos deberán tener un label
+-->
+
+Proyecto 24 :
+<!--
+Crea un formulario con un campo tipo texto,
+- Debe ser obligatorio
+- Minimo se pueden introducit 3 caracteres Máximo 10
+- SOlo podrás meter espacios y letras de A-Z n Minúscula y Mayúscula
+-->
+
+Proyecto 25 :
+<!--
+Crea un párrafo que permita introducir muchos espacios,
+en ese texto deberá haber una abreviatura
+y una parte del texto debe estar invertido
+-->
